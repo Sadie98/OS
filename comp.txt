@@ -1,0 +1,19 @@
+Сравнение файлов file1.txt и FILE2.TXT
+***** file1.txt
+   Diagnostics Tracking Service
+   DNS-клиент
+   ePower Service
+***** FILE2.TXT
+   Diagnostics Tracking Service
+   ePower Service
+*****
+
+***** file1.txt
+   Планировщик классов мультимедиа
+   Помощник по входу в учетную запись Майкрософт
+   Посредник подключений к сети
+***** FILE2.TXT
+   Планировщик классов мультимедиа
+   Посредник подключений к сети
+*****
+

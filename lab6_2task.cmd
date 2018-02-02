@@ -1,0 +1,1 @@
+C:\Users\Óëÿ>xcopy /Z c:\deleteme\f.pptx \\aser\temp\f.pptx

@@ -1,0 +1,97 @@
+Запущены следующие службы Windows:
+
+   AMD External Events Utility
+   Bluetooth Service
+   CCDMonitorService
+   Cyberlink RichVideo Service(CRVS)
+   DHCP-клиент
+   Diagnostics Tracking Service
+   DNS-клиент
+   ePower Service
+   GamesAppIntegrationService
+   Intel Security PEF Service
+   Launch Manager Service
+   McAfee AP Service
+   McAfee Boot Delay Start Service
+   McAfee CSP Service
+   McAfee Firewall Core Service
+   McAfee Home Network
+   McAfee Module Core Service
+   McAfee Personal Firewall Service
+   McAfee Platform Services
+   McAfee Proxy Service
+   McAfee Service Controller
+   McAfee SiteAdvisor Service
+   McAfee Validation Trust Protection Service
+   McAfee VirusScan Announcer
+   Plug and Play
+   Quick Access RadioMgr Service
+   Quick Access Service
+   SQL Server (MSSQLSERVER)
+   SQL Server VSS Writer
+   Superfetch
+   User Experience Improvement Program
+   Windows Audio
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Phone IP over USB Transport (IpOverUsbSvc)
+   Windows Search
+   Агент политики IPsec
+   Брандмауэр Windows
+   Браузер компьютеров
+   Брокер времени
+   Брокер системных событий
+   Вспомогательная служба IP
+   Диспетчер локальных сеансов
+   Диспетчер печати
+   Диспетчер подключений Windows
+   Диспетчер учетных данных
+   Диспетчер учетных записей безопасности
+   Журнал событий Windows
+   Инструментарий управления Windows
+   Клиент отслеживания изменившихся связей
+   Модули ключей IPsec для обмена ключами в Интернете и протокола IP с проверкой подлинности
+   Модуль запуска процессов DCOM-сервера
+   Модуль поддержки NetBIOS через TCP/IP
+   Обнаружение SSDP
+   Определение оборудования оболочки
+   Питание
+   Планировщик заданий
+   Планировщик классов мультимедиа
+   Помощник по входу в учетную запись Майкрософт
+   Посредник подключений к сети
+   Поставщик домашней группы
+   Публикация ресурсов обнаружения функции
+   Рабочая станция
+   Сведения о приложении
+   Сервер
+   Сетевые подключения
+   Система событий COM+
+   Служба Bonjour
+   Служба Microsoft Office "Нажми и работай"
+   Служба автоматического обнаружения веб-прокси WinHTTP
+   Служба автонастройки WLAN
+   Служба базовой фильтрации
+   Служба загрузки изображений Windows (WIA)
+   Служба интерфейса сохранения сети
+   Служба инфраструктуры фоновых задач
+   Служба кэша шрифтов Windows
+   Служба политики диагностики
+   Служба помощника по совместимости программ
+   Служба профилей пользователей
+   Служба сведений о подключенных сетях
+   Служба сопоставления устройств
+   Служба списка сетей
+   Служба уведомления о системных событиях
+   Службы криптографии
+   Сопоставитель конечных точек RPC
+   Средство построения конечных точек Windows Audio
+   Темы
+   Удаленный вызов процедур (RPC)
+   Узел системы диагностики
+   Узел службы диагностики
+   Фоновая интеллектуальная служба передачи (BITS)
+   Центр обеспечения безопасности
+   Центр обновления Windows
+
+Команда выполнена успешно.
+
